@@ -1,0 +1,17 @@
+body{
+  color: white;
+  background-color: black;
+  font-family: arial;
+}
+
+.preview{
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+}
+
+.center{
+  text-align: center; 
+}
