@@ -15,3 +15,8 @@ h1{
 .center{
   text-align: center; 
 }
+
+.hide{
+  text-align: center; 
+  color: #121212;
+}
